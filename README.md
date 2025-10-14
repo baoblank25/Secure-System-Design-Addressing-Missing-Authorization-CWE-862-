@@ -117,5 +117,3 @@ Google, Microsoft, and GitHub security guidelines
 
 This project reinforces the principle that authorization must be explicit, enforced, and verifiable.
 By integrating login lockouts, session timeouts, and audit logging, the system achieves greater resilience against unauthorized access and aligns with ethical software engineering standards.
-
-“Security should not be an afterthought — it must be designed into the system from the start.”
