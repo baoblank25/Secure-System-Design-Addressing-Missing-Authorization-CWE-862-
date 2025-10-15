@@ -44,17 +44,6 @@ import javafx.scene.control.Alert.AlertType;
  * 
  * This application uses singletons and Model View Controller (MVC) View pattern to control the 
  * use of memory by avoiding multiple copies of the same page.
- * 
- * This application does not use the command line arguments *i.e., "String[] args"), but Java and
- * JavaFX in Eclipse requires they be made available in the application's main method, even if they
- * are not needed.</p>
- *
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- *
- * @author Lynn Robert Carter
- *
- * @version 3.00	2025-08-17 Rewrite of this application for the Fall offering of CSE 360 and
- * other ASU courses.
  */
 
 public class FoundationsMain extends Application {
