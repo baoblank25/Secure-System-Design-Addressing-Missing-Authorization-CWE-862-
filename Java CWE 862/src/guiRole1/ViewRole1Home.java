@@ -19,13 +19,6 @@ import guiUserUpdate.ViewUserUpdate;
  * <p> Description: The Java/FX-based Role1 Home Page.  The page is a stub for some role needed for
  * the application.  The widgets on this page are likely the minimum number and kind for other role
  * pages that may be needed.</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00		2025-08-20 Initial version
- *  
  */
 
 public class ViewRole1Home {
