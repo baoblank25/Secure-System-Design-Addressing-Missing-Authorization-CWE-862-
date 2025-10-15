@@ -8,15 +8,6 @@ public class UserNameRecognizer {
 	 * <p> Description: A demonstration of the mechanical translation of Finite State Machine 
 	 * diagram into an executable Java program using the UserName Recognizer. The code 
 	 * detailed design is based on a while loop with a select list</p>
-	 * 
-	 * <p> Copyright: Lynn Robert Carter © 2024 </p>
-	 * 
-	 * @author Lynn Robert Carter
-	 * 
-	 * @version 1.00		2024-09-13	Initial baseline derived from the Even Recognizer
-	 * @version 1.01		2024-09-17	Correction to address UNChar coding error, improper error
-	 * 									message, and improve internal documentation
-	 * 
 	 */
 
 	/**********************************************************************************************
