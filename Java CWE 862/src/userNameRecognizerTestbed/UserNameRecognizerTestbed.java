@@ -8,14 +8,6 @@ import guiUserLogin.UserNameRecognizer;
  * <p> Title: UserNameRecognizerTestbed. </p>
  * 
  * <p> Description: A console terminal demonstration application</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2024 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00	2024-09-13 The mainline of a console terminal implementation of an UserName
- * 					Recognizer testbed
- * 
  */
 
 public class UserNameRecognizerTestbed{
