@@ -9,16 +9,6 @@ public class ControllerMultipleRoleDispatch {
 	This controller is not a class that gets instantiated.  Rather, it is a collection of protected
 	static methods that can be called by the View (which is a singleton instantiated object) and 
 	the Model is often just a stub, or will be a singleton instantiated object.
-
-	 */
-	
-	
-	/**********
-	 * <p> Method: performRole() </p>
-	 * 
-	 * <p> Description: This method directs the execution to one of the various home pages based on
-	 * the current value of the SelectRole ComboBox. </p>
-	 * 
 	 */
 	static protected void performRole() {
 		
