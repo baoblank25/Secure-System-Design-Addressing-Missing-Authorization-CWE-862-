@@ -20,13 +20,6 @@ import entityClasses.User;
  * <p> Description: The ViewNewAccount Page is used to enable a potential user with an invitation
  * code to establish an account after they have specified an invitation code on the standard login
  * page. </p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00		2025-08-19 Initial version
- *  
  */
 
 public class ViewNewAccount {
